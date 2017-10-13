@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoWebApp.Tests", "ToDoWebApp.Tests\ToDoWebApp.Tests.csproj", "{61E6B0DF-159B-4DBD-8AD7-54A44BC7664E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoWebApp", "ToDoWebApp\ToDoWebApp.csproj", "{95C219EB-CF1C-4E76-A9A6-90C411A18E9A}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{61E6B0DF-159B-4DBD-8AD7-54A44BC7664E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61E6B0DF-159B-4DBD-8AD7-54A44BC7664E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61E6B0DF-159B-4DBD-8AD7-54A44BC7664E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61E6B0DF-159B-4DBD-8AD7-54A44BC7664E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{95C219EB-CF1C-4E76-A9A6-90C411A18E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{95C219EB-CF1C-4E76-A9A6-90C411A18E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95C219EB-CF1C-4E76-A9A6-90C411A18E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
